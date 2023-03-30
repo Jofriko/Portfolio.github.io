@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar {
+	background-color: #6cc180;
+	color: #6cc180;
+}
+
+.jumbotron {
+	background-color: #e7f3e3;
+}
+
+.navbar-brand {
+	font-style: regular;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 150%
+		
+.nav-link {
+	font-style: regular;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
